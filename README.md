@@ -1,24 +1,24 @@
- Olá, eu sou a Sarinha! 👋
+Olá, eu sou a Sarinha! 👋
 
-👩‍💻 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e técnica em Desenvolvimento de Sistemas pela Etec. Estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades de codificação.
+Sou estudante e estou sempre em busca de aprender novas ferramentas e melhorar minhas habilidades.
 
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas (Fatec)
-- 🛠️ Formação: Técnica em Desenvolvimento de Sistemas (Etec)
-- 🏢 Em busca de novos desafios e aprendizados na área de tecnologia.
-- 💬 Pronomes: Ela/Dela (she/her)
+- Cursando: Análise e Desenvolvimento de Sistemas (Fatec)
+- Formação: Técnica em Desenvolvimento de Sistemas (Etec)
+- Em busca de novos desafios e aprendizados na área de tecnologia.
+<p align="center">
+  <img src="assets/stars.gif" width="700" />
+</p>
 
-
-
-🛠 Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
+  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
+</p>
 
 📊 Estatísticas do GitHub
 Aqui você pode ver um pouco do meu progresso:
@@ -29,10 +29,4 @@ Aqui você pode ver um pouco do meu progresso:
 </div>
 
 
- 📫 Como me encontrar
-<a href="mailto:saragamoraes@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sara-gabrielle-moraes-da-silva-46800a364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
